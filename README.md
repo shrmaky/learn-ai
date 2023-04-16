@@ -20,6 +20,12 @@ Learn AI is an initiative where i will be sharing my learning on Generative AI.
  - Process Complex Data and generate new unseen data
  - Improving productivity and efficiency 
 
+# What is language model?
+
+![Language model](/assets/language-model.png "Language model")
+
+
+
 # Important Jargons for Generative AI
 
 |Jargon|Definition                   |Why We Use Them|Examples                                     |
@@ -90,6 +96,17 @@ Learn AI is an initiative where i will be sharing my learning on Generative AI.
 |1.	Deploy your Langchain backend to a server, such as Heroku, that can handle API requests.|                                |
 |2.	Update your React frontend to use the URL of your deployed backend instead of the local API endpoint.|                                |
 |3.	Deploy your React frontend to a static hosting service, such as Netlify or Vercel. |  
+
+
+# Concerns about Generative AI
+
+|Concern     |Why it's a concern                                                                                                                                                                                                                                                    |How AI companies are addressing it    |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+|Bias and Fairness|Generative AI models may perpetuate and amplify biases present in the training data, leading to unfair or discriminatory outcomes.                                                                                                                                    |Companies are implementing techniques such as data augmentation, fairness constraints, and bias detection and mitigation to reduce bias and increase fairness in their models. For example, OpenAI has created a toolkit for measuring and mitigating bias in language models.|
+|Safety and Security|Generative AI models can be used for malicious purposes, such as generating convincing fake media or phishing attacks.                                                                                                                                                |Companies are implementing safeguards such as model monitoring, access controls, and ethical guidelines to prevent misuse of their models. For example, OpenAI has developed a policy of not releasing its most powerful language models to the public, and Google's Project Maven restricts the use of its AI tools in certain applications.|
+|Explainability and Transparency|Generative AI models can be difficult to interpret or explain, making it hard to understand how they arrive at their outputs or detect errors.                                                                                                                        |Companies are working on methods such as interpretability frameworks, explainability algorithms, and visualization tools to make their models more transparent and understandable. For example, Google's TCAV (Testing with Concept Activation Vectors) provides a way to examine how specific concepts influence a model's outputs.|
+|Scalability and Efficiency|Generative AI models can be computationally intensive and difficult to scale to large datasets or real-time applications.                                                                                                                                             |Companies are exploring techniques such as model distillation, pruning, and optimization to reduce the size and complexity of their models, as well as distributed computing and hardware acceleration to improve performance. For example, OpenAI's GPT-3 model is over 100x larger than its predecessor GPT-2, but uses a combination of pruning and distillation to reduce its computational cost.|
+|Ethical and Societal Impacts|Generative AI models may have unintended consequences for society or raise ethical questions about their use.                                                                                                                                                         |Companies are engaging in ethical discussions and developing policies and guidelines to address these concerns. For example, Microsoft's AI principles include a commitment to designing AI systems that are transparent, accountable, and respectful of human rights.|
 
 
 # Must read articles for Frontend Engineers
