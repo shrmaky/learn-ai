@@ -92,5 +92,5 @@ Learn AI is an initiative where i will be sharing my learning on Generative AI.
 |3.	Deploy your React frontend to a static hosting service, such as Netlify or Vercel. |  
 
 
-# Must read arcicles for Frontend Engineers
+# Must read articles for Frontend Engineers
  - [How chatgpt generates typewriting effect](https://levelup.gitconnected.com/discovering-the-magic-of-chatgpts-typewriter-reply-animation-b2a751db784a)
