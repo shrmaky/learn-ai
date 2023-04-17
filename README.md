@@ -109,6 +109,13 @@ Learn AI is an initiative where i will be sharing my learning on Generative AI.
 |Ethical and Societal Impacts|Generative AI models may have unintended consequences for society or raise ethical questions about their use.                                                                                                                                                         |Companies are engaging in ethical discussions and developing policies and guidelines to address these concerns. For example, Microsoft's AI principles include a commitment to designing AI systems that are transparent, accountable, and respectful of human rights.|
 
 
+
+# Read more
+- [List of LLM](https://github.com/Hannibal046/Awesome-LLM)
+- [Together OpenChatKit](https://www.together.xyz/blog/openchatkit)
+- [Deepspeed Chat](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat)
+- [Milvus Vector DB](https://milvus.io/)
+
 # Must read articles for Frontend Engineers
  - [How chatgpt generates typewriting effect](https://levelup.gitconnected.com/discovering-the-magic-of-chatgpts-typewriter-reply-animation-b2a751db784a)
 
